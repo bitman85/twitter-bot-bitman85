@@ -24,7 +24,7 @@ Features:
 
 The all config File has in the config dir
 
--config.js:
+-**config.js**:
 	
 	- lang: put the code lang ( 'es' for spanish, 'en' for english, etc) to search twits
 	
@@ -32,10 +32,10 @@ The all config File has in the config dir
 	
 	- port: listen bot port
 	
--auth.js: Your tokens from twitter
+-**auth.js**: Your tokens from twitter
 
 
--messages.js: thanks is a twits to new follower, the other messages its only to log, translate to your language
+-**messages.js**: thanks is a twits to new follower, the other messages its only to log, translate to your language
 
 	
 	-thanks : respond to new follower
@@ -57,9 +57,9 @@ The all config File has in the config dir
 	-likeTwit : like twit message log
 
 
--words.txt: put in the list your hastags to search and retwit
+-**words.txt**: put in the list your hastags to search and retwit
 
--favoritewords.txt: Put in the list your hastags to make favorite
+-**favoritewords.txt**: Put in the list your hastags to make favorite
 
 
 
@@ -67,7 +67,7 @@ The all config File has in the config dir
 
 Other Files:
 
--Twitslist.list: The bot looks at this file to see that it has not retweeted 	
+-**Twitslist.list**: The bot looks at this file to see that it has not retweeted 	
 
 
 

@@ -71,7 +71,7 @@ Other Files:
 
 
 
-#Coming Soon
+# Coming Soon
 
 -Select the range of random time.
 -Put and Remove hastags from the GUI

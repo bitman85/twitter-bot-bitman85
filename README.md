@@ -7,14 +7,23 @@ The bot take every random time a random hastag from the list to Retwit and favor
 Features:
 
 -GUI for controller the bot
+
 -Search and RT the best twit from selected hashtag on the list (see instrucctions)
+
 -Search and make Favorite the las 15 twits of selected hashtags on the list (see instrucctions)
+
 -Input a user name in GUI to RT her last Twit
+
 -Input a hastag in GUI to RT the most Retwited
+
 -Start and Stop Bot
+
 -LOG in the GUI and FILE
+
 -Hastags are configurable
+
 -Give thanks to new follower ( the twits its configurable)
+
 -Show log when the next twit (hour).
 
 
